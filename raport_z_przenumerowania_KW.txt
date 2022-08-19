@@ -1,0 +1,6 @@
+KW 12345	1-500	 Nowy nr: TR1B/00012345/6
+KW 831**	1-272/17	 Nowy nr: TR1B/000831**/7
+KW 863**	1-326	 Nowy nr: TR1B/000863**/6
+KW652**	1-450	 Z³y format numeru KW
+TR1B/000*****/7	1-10/2	 Numer jest poprawny
+TR1B/000*****/5	1-1546/8	 Numer jest poprawny
